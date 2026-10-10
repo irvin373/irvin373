@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irvin Cossio Chavalier</h1>
-<h3 align="center">Senior mobile/frontend engineer from Bolivia</h3>
+<h3 align="center">Senior mobile/full-stack engineer from Bolivia 🇧🇴</h3>
 
 <p>
     From Cochabamba, Bolivia, I'm a Senior Mobile & Frontend Engineer with 8+ years of experience shipping products — from fintech wallets and delivery platforms to enterprise mobile apps.
